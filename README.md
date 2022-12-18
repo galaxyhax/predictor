@@ -1,2 +1,2 @@
 # predictor
-galaxyhax bloxflip predictor
+galaxyhax bloxflip predictor for discord
